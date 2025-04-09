@@ -28,6 +28,15 @@ The **Jumia Shopping Assistant** offers an intelligent system that simplifies on
 - **User Feedback Loop**: The assistant can request additional preferences if no input is provided, ensuring every interaction results in a recommendation.
 
 ---
+## Screenshots 📸
+
+Here are some screenshots showcasing the key features of the **Online-Shopping-Assistant** app:
+
+### 1. 🏠
+![image](https://github.com/user-attachments/assets/9cf8ef3a-9e19-4a48-980b-875bf0468d4f)
+![image](https://github.com/user-attachments/assets/ddd0b10b-351a-4f06-91ec-e2a2fb6442b7)
+![image](https://github.com/user-attachments/assets/d9ba67db-673c-421b-bb8c-2c79f1d04b6e)
+![image](https://github.com/user-attachments/assets/47c1e2a9-b5a2-49ad-a7ef-c42aaca1db97)
 
 ## 🤖 **How It Works**
 
